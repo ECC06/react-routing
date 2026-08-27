@@ -1,6 +1,6 @@
 Markdown template
 
-# Screenshot of work (React Week 8 Exercise, Part 1)
+# Screenshot of work (React Week 8 Exercise)
 
 ## Routing functionality
 
